@@ -8,7 +8,7 @@ const VIDEOS = [
   {
     id: "NOSkfZQdFyc",
     titulo: "Menú Semanal: 4 Recetas para Diabéticos",
-    thumbnail: "https://img.youtube.com/vi/NOSkfZQdFyc/hqdefault.jpg",
+    thumbnail: "/images/video-menu-semanal-diabeticos.jpg",
     ingredientes: [
       "Pechuga de pollo sin piel",
       "Verduras de temporada (zanahoria, calabacita, brócoli)",
@@ -21,7 +21,7 @@ const VIDEOS = [
   {
     id: "7ZenQNNeWaE",
     titulo: "Menú Semanal para Diabéticos Fácil y Económico",
-    thumbnail: "https://img.youtube.com/vi/7ZenQNNeWaE/hqdefault.jpg",
+    thumbnail: "/images/video-almuerzo-diabetes.jpg",
     ingredientes: [
       "Legumbres (lentejas, garbanzos, frijoles)",
       "Verduras de hoja verde (espinaca, col rizada)",
@@ -34,7 +34,7 @@ const VIDEOS = [
   {
     id: "TJ33GmFeAUM",
     titulo: "7 Deliciosas Recetas para Diabéticos",
-    thumbnail: "https://img.youtube.com/vi/TJ33GmFeAUM/hqdefault.jpg",
+    thumbnail: "/images/video-7-recetas-diabeticos.jpg",
     ingredientes: [
       "Proteínas magras (pollo, pescado, huevo)",
       "Verduras sin almidón (pepino, lechuga, apio)",
@@ -47,7 +47,7 @@ const VIDEOS = [
   {
     id: "UTmDH899jXU",
     titulo: "25 Recetas para Diabetes: Desayuno, Almuerzo y Cena",
-    thumbnail: "https://img.youtube.com/vi/UTmDH899jXU/hqdefault.jpg",
+    thumbnail: "/images/video-25-recetas-diabetes.jpg",
     ingredientes: [
       "Avena integral sin azúcar",
       "Frutas de bajo índice glucémico (manzana, pera, frutos rojos)",
@@ -60,7 +60,7 @@ const VIDEOS = [
   {
     id: "uhIQMB7wvcI",
     titulo: "4 Ensaladas Saludables Sin Azúcar para Diabéticos",
-    thumbnail: "https://img.youtube.com/vi/uhIQMB7wvcI/hqdefault.jpg",
+    thumbnail: "/images/video-ensaladas-sin-azucar.jpg",
     ingredientes: [
       "Lechuga romana y arúgula",
       "Tomate cherry y pepino",
