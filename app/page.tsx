@@ -23,7 +23,7 @@ export default function Home() {
         <div className="px-4 pt-4">
           <Link href="/videos" className="block relative w-full rounded-2xl overflow-hidden shadow-md" style={{ aspectRatio: "16/6" }}>
             <Image
-              src="https://v3b.fal.media/files/b/0a9d6826/ldX-ZvMFlJT5A0CZPgmcO.jpg"
+              src="/images/banner-videos.jpg"
               alt="Vídeos Exclusivos"
               fill
               className="object-cover"
