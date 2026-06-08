@@ -1,0 +1,450 @@
+[
+  {
+    "id": 1,
+    "slug": "pan-de-cebada-de-elias",
+    "nome": "Pan de Cebada de Elías",
+    "categoria": "Panes & Granos",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e3/7Vb9eYB6H7w6G99023Xac.jpg",
+    "tempo": 40,
+    "porcoes": 8,
+    "versiculo": "1 Reyes 19:6",
+    "texto_versiculo": "Miró, y he aquí a su cabecera una torta cocida sobre las brasas, y una vasija de agua. Y comió y bebió, y volvió a dormirse.",
+    "contexto_biblico": "El profeta Elías, agotado tras huir de la reina Jezabel, fue alimentado por un ángel con pan de cebada. La cebada era el grano de los humildes en la tierra de Israel, nutritivo y accesible para todos. Este pan representaba el cuidado divino en los momentos de mayor debilidad.",
+    "ingredientes": [
+      { "item": "harina de cebada integral", "quantidade": "2 tazas", "nota_saude": "índice glucémico bajo, rica en fibra soluble" },
+      { "item": "aceite de oliva extra virgen", "quantidade": "3 cucharadas", "nota_saude": "grasa saludable, antiinflamatorio" },
+      { "item": "agua tibia", "quantidade": "1 taza", "nota_saude": "hidratación esencial" },
+      { "item": "sal marina", "quantidade": "1 cucharadita", "nota_saude": "usar con moderación" },
+      { "item": "levadura seca activa", "quantidade": "1 sobre (10g)", "nota_saude": "la fermentación mejora la absorción de nutrientes" },
+      { "item": "ajonjolí", "quantidade": "2 cucharadas", "nota_saude": "rico en calcio y magnesio" }
+    ],
+    "modo_preparo": [
+      "Disuelve la levadura en el agua tibia y deja reposar 5 minutos hasta que espume.",
+      "En un tazón grande, mezcla la harina de cebada y la sal.",
+      "Agrega el aceite y la mezcla de levadura a la harina. Mezcla hasta formar una masa homogénea.",
+      "Amasa por 8 minutos sobre una superficie ligeramente enharinada hasta obtener una masa lisa y elástica.",
+      "Cubre con un paño húmedo y deja reposar 30 minutos en un lugar cálido.",
+      "Da forma ovalada, espolvorea el ajonjolí encima y presiona suavemente.",
+      "Hornea a 200°C por 25 minutos o hasta que esté dorado."
+    ],
+    "dica_diabeticos": "La cebada integral contiene beta-glucano, fibra soluble que retarda la absorción del azúcar y ayuda a controlar la glucemia. Prefiere rebanadas delgadas acompañadas de proteína (huevo, queso) para reducir aún más el pico glucémico."
+  },
+  {
+    "id": 2,
+    "slug": "sopa-de-lentejas-de-esau",
+    "nome": "Sopa de Lentejas de Esaú",
+    "categoria": "Sopas & Caldos",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e3/3mtvlzkDDhWHztm3Q9ryb.jpg",
+    "tempo": 35,
+    "porcoes": 4,
+    "versiculo": "Génesis 25:34",
+    "texto_versiculo": "Entonces Jacobo dio a Esaú pan y guisado de lentejas; y él comió y bebió, y se levantó y se fue.",
+    "contexto_biblico": "La famosa sopa de lentejas aparece en uno de los momentos más memorables del Génesis, cuando Esaú cambia su primogenitura por un plato humeante. Las lentejas eran alimento básico de los hebreos — baratas, nutritivas y fáciles de cultivar en las tierras áridas del Oriente Medio.",
+    "ingredientes": [
+      { "item": "lentejas rojas", "quantidade": "1½ taza", "nota_saude": "proteína vegetal, índice glucémico bajo" },
+      { "item": "cebolla picada", "quantidade": "1 grande", "nota_saude": "prebiótico, antiinflamatorio" },
+      { "item": "ajo machacado", "quantidade": "3 dientes", "nota_saude": "controla presión y glucemia" },
+      { "item": "tomate maduro picado", "quantidade": "2 unidades", "nota_saude": "rico en licopeno y vitamina C" },
+      { "item": "comino en polvo", "quantidade": "1 cucharadita", "nota_saude": "mejora digestión y controla el azúcar en sangre" },
+      { "item": "aceite de oliva extra virgen", "quantidade": "2 cucharadas", "nota_saude": "grasa saludable" },
+      { "item": "caldo de verduras sin sal", "quantidade": "1 litro", "nota_saude": "hidratación y minerales" },
+      { "item": "sal y pimienta", "quantidade": "al gusto", "nota_saude": "usar sal con moderación" }
+    ],
+    "modo_preparo": [
+      "Calienta el aceite en una olla honda y sofríe la cebolla por 5 minutos hasta dorar.",
+      "Agrega el ajo y el comino, revuelve por 1 minuto más.",
+      "Añade el tomate y cocina por 3 minutos hasta que se deshaga.",
+      "Incorpora las lentejas lavadas y el caldo de verduras. Mezcla bien.",
+      "Cocina a fuego medio por 20-25 minutos hasta que las lentejas estén bien cocidas.",
+      "Ajusta sal y pimienta. Sirve caliente con un hilo de aceite encima."
+    ],
+    "dica_diabeticos": "Las lentejas tienen índice glucémico bajo (21) y son ricas en proteína y fibra, ideales para diabéticos. El comino potencia el efecto, ya que contiene compuestos que ayudan a regular la insulina. Evita acompañarlas con pan blanco."
+  },
+  {
+    "id": 3,
+    "slug": "pescado-a-la-plancha-de-tiberias",
+    "nome": "Pescado a la Plancha de Tiberíades",
+    "categoria": "Pescados",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e3/92Fx7cPkHdslp61VmiGA2.jpg",
+    "tempo": 20,
+    "porcoes": 2,
+    "versiculo": "Juan 21:9",
+    "texto_versiculo": "Al desembarcar, vieron brasas puestas, y un pescado encima de ellas, y pan.",
+    "contexto_biblico": "Tras la resurrección, Jesús preparó personalmente un desayuno a orillas del Mar de Tiberíades para sus discípulos: pescado asado sobre brasas. Era el alimento más sencillo y nutritivo de Galilea, consumido por pescadores durante milenios a orillas de ese mar sagrado.",
+    "ingredientes": [
+      { "item": "filete de tilapia o merluza", "quantidade": "2 piezas (200g c/u)", "nota_saude": "proteína magra, rico en omega-3" },
+      { "item": "aceite de oliva extra virgen", "quantidade": "2 cucharadas", "nota_saude": "antiinflamatorio" },
+      { "item": "limón amarillo", "quantidade": "1 unidad", "nota_saude": "vitamina C, alcalinizante" },
+      { "item": "romero fresco", "quantidade": "2 ramas", "nota_saude": "antioxidante, mejora circulación" },
+      { "item": "ajo en rebanadas", "quantidade": "2 dientes", "nota_saude": "antibacteriano natural" },
+      { "item": "sal marina y pimienta negra", "quantidade": "al gusto", "nota_saude": "usar sal con moderación" }
+    ],
+    "modo_preparo": [
+      "Sazona los filetes con sal, pimienta, jugo de limón y aceite. Deja marinar 10 minutos.",
+      "Calienta una plancha o sartén antiadherente a fuego alto.",
+      "Coloca el romero y el ajo en la plancha 1 minuto para liberar el aroma.",
+      "Asa los filetes 4 minutos por lado sin moverlos, hasta que estén dorados.",
+      "Sirve inmediatamente con rodajas de limón y un hilo de aceite."
+    ],
+    "dica_diabeticos": "El pescado magro tiene índice glucémico cero y es rico en proteínas que ayudan a controlar el apetito. El omega-3 reduce la inflamación sistémica, común en diabéticos tipo 2. Prefiere asar o cocinar a la plancha — nunca freír."
+  },
+  {
+    "id": 4,
+    "slug": "ensalada-de-higos-de-abraham",
+    "nome": "Ensalada de Higos de Abraham",
+    "categoria": "Miel & Frutas",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e3/DI8Yh5wrqNRqxto4lmbIJ.jpg",
+    "tempo": 10,
+    "porcoes": 2,
+    "versiculo": "Números 13:23",
+    "texto_versiculo": "Llegaron hasta el arroyo de Escol, y de allí cortaron un sarmiento con un racimo de uvas... también granadas e higos.",
+    "contexto_biblico": "Cuando Moisés envió espías a la Tierra Prometida, regresaron cargando higos, granadas y uvas — frutos que simbolizaban la abundancia divina de Canaán. El higo era tan valioso que aparece más de 50 veces en la Biblia, consumido fresco, seco o prensado en tortas.",
+    "ingredientes": [
+      { "item": "higos frescos maduros", "quantidade": "6 unidades", "nota_saude": "fibra, potasio, manganeso" },
+      { "item": "hojas de arúgula", "quantidade": "1 taza", "nota_saude": "bajo en carbohidratos, rica en vitamina K" },
+      { "item": "nueces troceadas", "quantidade": "¼ taza", "nota_saude": "omega-3, proteína, saciedad" },
+      { "item": "queso cottage", "quantidade": "3 cucharadas", "nota_saude": "proteína magra, bajo en carbohidratos" },
+      { "item": "aceite de oliva extra virgen", "quantidade": "1 cucharada", "nota_saude": "grasa saludable" },
+      { "item": "vinagre balsámico", "quantidade": "1 cucharadita", "nota_saude": "ayuda al control glucémico" },
+      { "item": "hojas de menta fresca", "quantidade": "algunas", "nota_saude": "digestiva y refrescante" }
+    ],
+    "modo_preparo": [
+      "Lava y seca las hojas de arúgula. Colócalas en un plato.",
+      "Corta los higos a la mitad o en cuartos y ponlos sobre la arúgula.",
+      "Distribuye las nueces y pequeñas cucharadas de queso cottage.",
+      "Mezcla el aceite y el vinagre balsámico y aliña la ensalada.",
+      "Finaliza con las hojas de menta. Sirve de inmediato."
+    ],
+    "dica_diabeticos": "Los higos frescos tienen índice glucémico moderado (35-50). La combinación con nueces y proteína del cottage retarda la absorción del azúcar. Prefiere higos frescos a los secos, que tienen azúcar más concentrada. Limita a 3-4 higos por porción."
+  },
+  {
+    "id": 5,
+    "slug": "pure-de-garbanzo-de-daniel",
+    "nome": "Puré de Garbanzo de Daniel",
+    "categoria": "Verduras & Legumbres",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e3/PG_0C9xb5hkwe7Xb_la-X.jpg",
+    "tempo": 15,
+    "porcoes": 4,
+    "versiculo": "Daniel 1:12",
+    "texto_versiculo": "Te ruego que hagas la prueba con tus siervos por diez días, y que nos den legumbres a comer y agua a beber.",
+    "contexto_biblico": "Daniel y sus compañeros rechazaron los alimentos del rey Nabucodonosor y pidieron solo legumbres y agua por diez días. Al final, estaban más sanos que todos los demás. Este episodio bíblico es uno de los primeros registros de alimentación saludable intencional por fe y sabiduría.",
+    "ingredientes": [
+      { "item": "garbanzos cocidos", "quantidade": "2 tazas", "nota_saude": "proteína vegetal, fibra, IG muy bajo" },
+      { "item": "tahini (pasta de ajonjolí)", "quantidade": "3 cucharadas", "nota_saude": "calcio, magnesio, grasa buena" },
+      { "item": "jugo de limón", "quantidade": "2 limones", "nota_saude": "vitamina C, digestivo" },
+      { "item": "ajo", "quantidade": "2 dientes", "nota_saude": "antiinflamatorio" },
+      { "item": "aceite de oliva extra virgen", "quantidade": "3 cucharadas", "nota_saude": "grasa monoinsaturada" },
+      { "item": "comino en polvo", "quantidade": "½ cucharadita", "nota_saude": "regula glucemia" },
+      { "item": "sal marina", "quantidade": "al gusto", "nota_saude": "usar con moderación" },
+      { "item": "pimentón ahumado para decorar", "quantidade": "una pizca", "nota_saude": "antioxidante" }
+    ],
+    "modo_preparo": [
+      "Reserva un poco del agua de cocción de los garbanzos (o de la lata).",
+      "En la licuadora o procesador, bate los garbanzos, tahini, limón, ajo y sal.",
+      "Agrega el aceite poco a poco mientras procesas hasta obtener cremosidad.",
+      "Si es necesario, añade cucharadas del agua reservada para afinar la textura.",
+      "Vierte en un plato hondo, haz un espiral con el dorso de la cuchara.",
+      "Finaliza con aceite, pimentón y comino. Sirve con verduras crudas o pan de cebada."
+    ],
+    "dica_diabeticos": "El hummus tiene índice glucémico bajísimo (6) y reduce el pico de azúcar de otros alimentos consumidos junto a él. Ideal como snack o entrada. Evita acompañarlo con pan blanco — prefiere palitos de zanahoria, pepino o apio."
+  },
+  {
+    "id": 6,
+    "slug": "pollo-con-hierbas-de-salomon",
+    "nome": "Pollo con Hierbas de Salomón",
+    "categoria": "Aceite & Hierbas",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e8/BK7LpLwq0yhWpGm0EyRIB.jpg",
+    "tempo": 45,
+    "porcoes": 4,
+    "versiculo": "Cantares 4:14",
+    "texto_versiculo": "Nardo y azafrán, caña aromática y canela, con todos los árboles de incienso, mirra y áloe, con todas las principales especias.",
+    "contexto_biblico": "El libro de Cantares de Salomón describe un jardín repleto de especias aromáticas — nardo, azafrán, canela, mirra — que perfumaban no solo el amor, sino también la cocina real de Israel. Salomón era conocido por su sabiduría y el esplendor de su mesa, sazonada con las especias más raras de Oriente.",
+    "ingredientes": [
+      { "item": "pechuga de pollo sin piel", "quantidade": "600g", "nota_saude": "proteína magra, sin grasa saturada" },
+      { "item": "aceite de oliva extra virgen", "quantidade": "3 cucharadas", "nota_saude": "antiinflamatorio" },
+      { "item": "romero fresco picado", "quantidade": "2 cucharadas", "nota_saude": "antioxidante, mejora circulación" },
+      { "item": "tomillo fresco", "quantidade": "1 cucharada", "nota_saude": "antibacteriano natural" },
+      { "item": "ajo picado", "quantidade": "4 dientes", "nota_saude": "controla glucemia y presión" },
+      { "item": "limón amarillo (jugo y ralladura)", "quantidade": "1 unidad", "nota_saude": "vitamina C, sabor sin calorías" },
+      { "item": "cúrcuma en polvo", "quantidade": "½ cucharadita", "nota_saude": "potente antiinflamatorio" },
+      { "item": "sal y pimienta negra", "quantidade": "al gusto", "nota_saude": "usar sal con moderación" }
+    ],
+    "modo_preparo": [
+      "Mezcla el aceite, ajo, romero, tomillo, cúrcuma, jugo y ralladura de limón, sal y pimienta.",
+      "Haz cortes superficiales en el pollo y frota la marinada por toda la pieza.",
+      "Deja marinar en el refrigerador por al menos 30 minutos (o hasta 8 horas para más sabor).",
+      "Precalienta el horno a 200°C. Coloca el pollo en una bandeja con papel para hornear.",
+      "Hornea 30-35 minutos, volteando a la mitad del tiempo, hasta que esté dorado.",
+      "Deja reposar 5 minutos antes de cortar. Sirve con verduras asadas."
+    ],
+    "dica_diabeticos": "La pechuga de pollo tiene índice glucémico cero y alto valor proteico, esencial para la saciedad y el control de peso en diabéticos. La cúrcuma y el ajo tienen propiedades comprobadas de control glucémico. Evita acompañar con arroz blanco — prefiere ensalada o verduras al vapor."
+  },
+  {
+    "id": 7,
+    "slug": "caldo-verde-biblico",
+    "nome": "Caldo Verde Bíblico",
+    "categoria": "Sopas & Caldos",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e3/qP8y-utWIvQRAIm75QDCS.jpg",
+    "tempo": 30,
+    "porcoes": 4,
+    "versiculo": "Proverbios 15:17",
+    "texto_versiculo": "Mejor es la comida de legumbres donde hay amor, que el buey engordado donde hay odio.",
+    "contexto_biblico": "La sabiduría de Salomón nos enseña que una comida sencilla de verduras, compartida con amor, es más valiosa que un banquete sin paz. Las verduras de hoja verde se cultivaban en los jardines de Israel y se consumían frescas o en caldos nutritivos durante siglos.",
+    "ingredientes": [
+      { "item": "col rizada finamente rebanada", "quantidade": "1 manojo", "nota_saude": "rica en vitamina K, calcio y hierro" },
+      { "item": "cebolla picada", "quantidade": "1 unidad", "nota_saude": "prebiótico natural" },
+      { "item": "ajo picado", "quantidade": "3 dientes", "nota_saude": "controla glucemia" },
+      { "item": "aceite de oliva extra virgen", "quantidade": "2 cucharadas", "nota_saude": "grasa saludable" },
+      { "item": "caldo de verduras sin sal", "quantidade": "1.5 litros", "nota_saude": "hidratación" },
+      { "item": "pimienta y sal", "quantidade": "al gusto", "nota_saude": "usar sal con moderación" },
+      { "item": "nuez moscada rallada", "quantidade": "una pizca", "nota_saude": "digestiva" }
+    ],
+    "modo_preparo": [
+      "Calienta el aceite en una olla honda y sofríe la cebolla hasta que esté transparente.",
+      "Agrega el ajo y revuelve 1 minuto.",
+      "Vierte el caldo de verduras y deja hervir.",
+      "Añade la col rizada rebanada y cocina solo 5 minutos — debe quedar verde vibrante.",
+      "Sazona con sal, pimienta y nuez moscada.",
+      "Sirve caliente con un hilo de aceite de oliva extra virgen."
+    ],
+    "dica_diabeticos": "La col rizada tiene índice glucémico casi cero y es rica en fibra que ayuda a controlar la glucemia. Este caldo es excelente como entrada antes de las comidas principales — reduce el apetito y retarda la absorción del azúcar de los alimentos siguientes."
+  },
+  {
+    "id": 8,
+    "slug": "datiles-rellenos-con-nueces",
+    "nome": "Dátiles Rellenos con Nueces",
+    "categoria": "Miel & Frutas",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e3/k_qC84KuvJy5Z5oKgr_ga.jpg",
+    "tempo": 10,
+    "porcoes": 4,
+    "versiculo": "Joel 1:12",
+    "texto_versiculo": "La palmera también, y el manzano, el granado, y la palmera datilera, y el manzano silvestre, todos los árboles del campo se secaron.",
+    "contexto_biblico": "La palmera datilera era llamada 'árbol de la vida' en el antiguo Oriente Medio. Los dátiles eran el alimento de viaje preferido de los hebreos en el desierto — concentrados en energía, fáciles de transportar y conservar. Jericó era conocida como 'Ciudad de las Palmeras' por sus enormes palmeras datileras.",
+    "ingredientes": [
+      { "item": "dátiles Medjool grandes", "quantidade": "12 unidades", "nota_saude": "fibra, potasio, magnesio" },
+      { "item": "nueces troceadas", "quantidade": "½ taza", "nota_saude": "omega-3, proteína, saciedad" },
+      { "item": "queso crema light", "quantidade": "3 cucharadas", "nota_saude": "proteína, retarda absorción del azúcar" },
+      { "item": "canela en polvo", "quantidade": "½ cucharadita", "nota_saude": "reduce glucemia posprandial" },
+      { "item": "ralladura de naranja", "quantidade": "1 cucharadita", "nota_saude": "vitamina C, aroma natural" }
+    ],
+    "modo_preparo": [
+      "Mezcla el queso crema con la canela y la ralladura de naranja hasta obtener una mezcla homogénea.",
+      "Abre cada dátil por la mitad con un cuchillo y retira el hueso.",
+      "Coloca una pequeña cantidad de la mezcla de queso crema dentro de cada dátil.",
+      "Presiona un trozo de nuez encima del relleno.",
+      "Sirve a temperatura ambiente o ligeramente frío."
+    ],
+    "dica_diabeticos": "A pesar de ser naturalmente dulces, los dátiles tienen índice glucémico medio (42-55) y son ricos en fibra. El relleno de proteína (queso crema) y grasa buena (nueces) reduce el pico glucémico. Limita a 2-3 dátiles por porción como postre ocasional."
+  },
+  {
+    "id": 9,
+    "slug": "guiso-de-pescado-del-mar-de-galilea",
+    "nome": "Guiso de Pescado del Mar de Galilea",
+    "categoria": "Pescados",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e8/zAgG6MB--3E4ZmZ2_5JdZ.jpg",
+    "tempo": 30,
+    "porcoes": 4,
+    "versiculo": "Mateo 4:18",
+    "texto_versiculo": "Andando Jesús junto al mar de Galilea, vio a dos hermanos, Simón, llamado Pedro, y Andrés su hermano, echando una red al mar; porque eran pescadores.",
+    "contexto_biblico": "El Mar de Galilea era el centro de la industria pesquera de Israel en tiempos de Jesús. Pedro, Andrés, Santiago y Juan — los primeros discípulos — eran pescadores profesionales que conocían cada corriente de ese lago. El pescado guisado con hierbas locales era la comida cotidiana de las familias de Capernaum.",
+    "ingredientes": [
+      { "item": "filete de tilapia en cubos", "quantidade": "600g", "nota_saude": "proteína magra, fósforo" },
+      { "item": "tomate maduro en cubos", "quantidade": "3 unidades", "nota_saude": "licopeno, vitamina C" },
+      { "item": "cebolla en rodajas", "quantidade": "1 unidad", "nota_saude": "prebiótico" },
+      { "item": "pimiento rojo en tiras", "quantidade": "1 unidad", "nota_saude": "vitamina C, IG bajo" },
+      { "item": "ajo en rebanadas", "quantidade": "4 dientes", "nota_saude": "antibacteriano, controla glucemia" },
+      { "item": "cilantro y perejil frescos", "quantidade": "½ taza", "nota_saude": "vitaminas y minerales" },
+      { "item": "aceite de oliva extra virgen", "quantidade": "2 cucharadas", "nota_saude": "antiinflamatorio" },
+      { "item": "sal, pimienta y limón", "quantidade": "al gusto", "nota_saude": "sabor sin calorías extras" }
+    ],
+    "modo_preparo": [
+      "Calienta el aceite y sofríe la cebolla y el pimiento 3 minutos.",
+      "Agrega el ajo y sofríe 1 minuto más.",
+      "Añade el tomate y cocina 5 minutos hasta formar una salsa.",
+      "Sazona el pescado con sal, pimienta y limón. Incorpora a la salsa.",
+      "Cocina tapado 10-12 minutos a fuego medio-bajo.",
+      "Finaliza con el cilantro y el perejil picados. Sirve caliente."
+    ],
+    "dica_diabeticos": "El guiso de pescado es rico en proteínas y tiene pocos carbohidratos, ideal para diabéticos. El tomate y el pimiento son antioxidantes poderosos que combaten el estrés oxidativo asociado a la diabetes. Evita acompañarlo con arroz."
+  },
+  {
+    "id": 10,
+    "slug": "pasta-de-aceitunas-con-hierbas",
+    "nome": "Pasta de Aceitunas con Hierbas",
+    "categoria": "Aceite & Hierbas",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e3/nTqDt9o-p_BQQmI_UEoEY.jpg",
+    "tempo": 10,
+    "porcoes": 6,
+    "versiculo": "Deuteronomio 8:8",
+    "texto_versiculo": "Tierra de trigo y cebada, de vides, higueras y granados; tierra de aceite de oliva y miel.",
+    "contexto_biblico": "El olivo era el árbol sagrado de Israel — símbolo de paz, prosperidad y alianza divina. El aceite de oliva tenía uso culinario, medicinal y ritual. En la Tierra Prometida descrita en el Deuteronomio, el olivo ocupa un lugar de honor entre los siete alimentos bíblicos fundamentales.",
+    "ingredientes": [
+      { "item": "aceitunas negras sin hueso", "quantidade": "1 taza", "nota_saude": "grasa monoinsaturada, vitamina E" },
+      { "item": "aceitunas verdes sin hueso", "quantidade": "½ taza", "nota_saude": "bajo en carbohidratos, antioxidante" },
+      { "item": "alcaparras", "quantidade": "1 cucharada", "nota_saude": "flavonoides, antiinflamatorio" },
+      { "item": "ajo", "quantidade": "2 dientes", "nota_saude": "antibacteriano natural" },
+      { "item": "tomillo fresco", "quantidade": "1 cucharada", "nota_saude": "antioxidante, antimicrobiano" },
+      { "item": "aceite de oliva extra virgen", "quantidade": "3 cucharadas", "nota_saude": "corazón saludable" },
+      { "item": "jugo de limón", "quantidade": "1 cucharada", "nota_saude": "vitamina C" }
+    ],
+    "modo_preparo": [
+      "Coloca todos los ingredientes en el procesador o licuadora.",
+      "Pulsa hasta obtener una pasta rústica — no dejes que quede completamente lisa, mantén la textura.",
+      "Prueba y ajusta la sal si es necesario (las aceitunas ya son saladas).",
+      "Transfiere a un recipiente y añade un hilo de aceite encima.",
+      "Sirve con palitos de zanahoria, pepino, apio o tostadas integrales."
+    ],
+    "dica_diabeticos": "Esta pasta tiene prácticamente cero carbohidratos y es rica en grasas monoinsaturadas que mejoran la sensibilidad a la insulina. Úsala como sustituto de patés industriales que contienen azúcar y conservantes. Perfecta para snacks sin culpa."
+  },
+  {
+    "id": 11,
+    "slug": "huevos-pochados-con-aceite-y-hierbas",
+    "nome": "Huevos Pochados con Aceite y Hierbas",
+    "categoria": "Aceite & Hierbas",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e3/sxsgt6ackddT1vcEKgqsX.jpg",
+    "tempo": 15,
+    "porcoes": 2,
+    "versiculo": "Deuteronomio 22:6",
+    "texto_versiculo": "Cuando encuentres en el camino algún nido de ave... no tomarás la madre junto con los polluelos.",
+    "contexto_biblico": "Los huevos formaban parte de la dieta diaria de los hebreos y eran considerados dones de la creación. La ley mosaica cuidaba tanto la creación que ordenaba respetar incluso los nidos de pájaros. El huevo cocido con aceite y hierbas era el desayuno más común en los hogares de Israel.",
+    "ingredientes": [
+      { "item": "huevos de rancho", "quantidade": "4 unidades", "nota_saude": "proteína completa, colina, vitamina D" },
+      { "item": "aceite de oliva extra virgen", "quantidade": "2 cucharadas", "nota_saude": "grasa monoinsaturada" },
+      { "item": "perejil fresco picado", "quantidade": "2 cucharadas", "nota_saude": "vitamina K, hierro" },
+      { "item": "cebollín o cebolla de cambray", "quantidade": "2 cucharadas", "nota_saude": "vitamina C, prebiótico" },
+      { "item": "vinagre blanco", "quantidade": "1 cucharada", "nota_saude": "para coagular el huevo" },
+      { "item": "sal marina y pimienta", "quantidade": "al gusto", "nota_saude": "usar con moderación" }
+    ],
+    "modo_preparo": [
+      "Hierve agua en una olla honda y agrega el vinagre — ayuda al huevo a mantener la forma.",
+      "Rompe cada huevo en una taza pequeña por separado.",
+      "Crea un remolino en el agua con una cuchara y desliza el huevo suavemente al centro.",
+      "Cocina 3-4 minutos para yema suave o 5 minutos para yema firme.",
+      "Retira con espumadera y seca en papel absorbente.",
+      "Baña con aceite y finaliza con perejil, cebollín, sal y pimienta."
+    ],
+    "dica_diabeticos": "Los huevos tienen índice glucémico cero y son proteínas completas que promueven saciedad duradera. Estudios muestran que consumir huevos en el desayuno reduce la glucemia a lo largo del día. Prefiere cocidos o pochados — nunca fritos con grasa extra."
+  },
+  {
+    "id": 12,
+    "slug": "sopa-de-calabaza-con-jengibre",
+    "nome": "Sopa de Calabaza con Jengibre",
+    "categoria": "Sopas & Caldos",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e8/LkD5dAyV8McKRTJfAK2vU.jpg",
+    "tempo": 35,
+    "porcoes": 4,
+    "versiculo": "2 Reyes 4:39",
+    "texto_versiculo": "Uno de ellos salió al campo a recoger hierbas, y halló una vid silvestre, y recogió de ella una cesta llena de calabazas silvestres.",
+    "contexto_biblico": "En tiempos del profeta Eliseo, uno de sus siervos recogió calabazas silvestres del campo para preparar un guiso para los hijos de los profetas. Las calabazas crecían espontáneamente en las tierras de Israel y eran alimento accesible para todos en épocas de escasez.",
+    "ingredientes": [
+      { "item": "calabaza en cubos", "quantidade": "600g", "nota_saude": "betacaroteno, fibra, vitamina A" },
+      { "item": "jengibre fresco rallado", "quantidade": "2 cucharaditas", "nota_saude": "antiinflamatorio, mejora sensibilidad a la insulina" },
+      { "item": "cebolla picada", "quantidade": "1 unidad", "nota_saude": "prebiótico" },
+      { "item": "ajo picado", "quantidade": "3 dientes", "nota_saude": "controla glucemia" },
+      { "item": "leche de coco light", "quantidade": "200ml", "nota_saude": "cremosidad sin lactosa" },
+      { "item": "caldo de verduras sin sal", "quantidade": "700ml", "nota_saude": "minerales" },
+      { "item": "aceite de oliva extra virgen", "quantidade": "2 cucharadas", "nota_saude": "grasa saludable" },
+      { "item": "sal, pimienta y nuez moscada", "quantidade": "al gusto", "nota_saude": "condimento natural" }
+    ],
+    "modo_preparo": [
+      "Calienta el aceite y sofríe la cebolla 5 minutos.",
+      "Agrega el ajo y el jengibre, sofríe 2 minutos más.",
+      "Añade la calabaza y el caldo. Cocina a fuego medio 20 minutos hasta que esté tierna.",
+      "Licúa todo con la batidora de inmersión o en licuadora hasta obtener textura aterciopelada.",
+      "Agrega la leche de coco y sazona con sal, pimienta y nuez moscada.",
+      "Sirve caliente con semillas de calabaza tostadas encima."
+    ],
+    "dica_diabeticos": "La calabaza tiene índice glucémico medio (75) pero carga glucémica baja cuando se consume en porción adecuada. El jengibre está científicamente comprobado para reducir la glucemia en ayunas. Evita agregar crema de leche — la leche de coco light mantiene la cremosidad con menor impacto glucémico."
+  },
+  {
+    "id": 13,
+    "slug": "ensalada-de-pepino-y-poro",
+    "nome": "Ensalada de Pepino y Poro",
+    "categoria": "Verduras & Legumbres",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e8/X8snGwVQvlQCgD6KySPcA.jpg",
+    "tempo": 10,
+    "porcoes": 2,
+    "versiculo": "Números 11:5",
+    "texto_versiculo": "Nos acordamos del pescado que comíamos en Egipto de balde, de los pepinos, los melones, los puerros, las cebollas y los ajos.",
+    "contexto_biblico": "En el desierto, los israelitas añoraron los alimentos de Egipto — entre ellos pepinos, puerros y ajos. Estos vegetales se cultivaban ampliamente a orillas del Nilo y formaban parte de la dieta diaria de los esclavos hebreos. Curiosamente, esos mismos alimentos que anhelaban son hoy reconocidos como de los más saludables por la medicina moderna.",
+    "ingredientes": [
+      { "item": "pepino japonés en rodajas", "quantidade": "2 unidades", "nota_saude": "hidratante, antiinflamatorio, IG bajísimo" },
+      { "item": "poro en rodajas", "quantidade": "1 tallo", "nota_saude": "prebiótico, rico en vitamina K" },
+      { "item": "yogur griego natural sin azúcar", "quantidade": "½ taza", "nota_saude": "probiótico, proteína" },
+      { "item": "menta fresca", "quantidade": "10 hojas", "nota_saude": "digestiva, refrescante" },
+      { "item": "aceite de oliva extra virgen", "quantidade": "1 cucharada", "nota_saude": "grasa buena" },
+      { "item": "jugo de limón", "quantidade": "½ limón", "nota_saude": "vitamina C" },
+      { "item": "sal y pimienta", "quantidade": "al gusto", "nota_saude": "usar con moderación" }
+    ],
+    "modo_preparo": [
+      "Corta los pepinos en rodajas finas y coloca en un tazón.",
+      "Agrega el poro en rodajas y mezcla.",
+      "Aparte, mezcla el yogur, el limón, el aceite, la sal y la pimienta.",
+      "Rompe las hojas de menta con las manos y agrega a la ensalada.",
+      "Vierte el aderezo de yogur sobre las verduras y mezcla delicadamente.",
+      "Sirve frío o a temperatura ambiente."
+    ],
+    "dica_diabeticos": "El pepino tiene índice glucémico casi cero y es excelente para la hidratación. El yogur griego sin azúcar es rico en proteínas y probióticos que mejoran la salud intestinal, directamente ligada al control de la diabetes tipo 2. Asegúrate de usar yogur sin azúcar añadida."
+  },
+  {
+    "id": 14,
+    "slug": "atole-de-cebada-con-miel",
+    "nome": "Atole de Cebada con Miel",
+    "categoria": "Panes & Granos",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e4/Ja0jzAywc1BEicgYL2jzh.jpg",
+    "tempo": 20,
+    "porcoes": 2,
+    "versiculo": "Proverbios 24:13",
+    "texto_versiculo": "Come, hijo mío, de la miel, porque es buena; y el panal de miel es dulce a tu paladar.",
+    "contexto_biblico": "La miel aparece más de 60 veces en la Biblia, frecuentemente asociada a la bendición y la Tierra Prometida — 'tierra que mana leche y miel'. Era el endulzante natural por excelencia de los hebreos y también tenía uso medicinal. Combinada con cebada integral, forma un desayuno completo y nutritivo.",
+    "ingredientes": [
+      { "item": "cebada en grano", "quantidade": "½ taza", "nota_saude": "beta-glucano, fibra soluble, IG bajo" },
+      { "item": "leche de almendra sin azúcar", "quantidade": "2 tazas", "nota_saude": "bajo en carbohidratos, vitamina E" },
+      { "item": "miel pura", "quantidade": "1 cucharada", "nota_saude": "antioxidante, endulzante natural" },
+      { "item": "canela en raja", "quantidade": "1 pieza", "nota_saude": "reduce glucemia posprandial" },
+      { "item": "almendras laminadas", "quantidade": "2 cucharadas", "nota_saude": "proteína, grasa buena, saciedad" },
+      { "item": "plátano macho maduro en rodajas", "quantidade": "½ unidad", "nota_saude": "potasio, energía gradual" }
+    ],
+    "modo_preparo": [
+      "Cocina la cebada en grano con la leche de almendra y la canela por 15 minutos a fuego bajo, revolviendo.",
+      "La cebada absorberá el líquido y quedará cremosa — agrega más leche si es necesario.",
+      "Retira la raja de canela y vierte en un tazón.",
+      "Finaliza con las rodajas de plátano, las almendras laminadas y baña con la miel.",
+      "Sirve caliente."
+    ],
+    "dica_diabeticos": "El beta-glucano de la cebada forma un gel en el intestino que retarda la absorción del azúcar — efecto comprobado en estudios clínicos. Usa solo 1 cucharada de miel, ya que aunque es natural, eleva la glucemia. La canela potencia el efecto hipoglucemiante de este platillo."
+  },
+  {
+    "id": 15,
+    "slug": "caldo-de-verduras-de-la-tierra-prometida",
+    "nome": "Caldo de Verduras de la Tierra Prometida",
+    "categoria": "Sopas & Caldos",
+    "imagem": "https://v3b.fal.media/files/b/0a9d67e3/Tn0n0_swOs-L1kWE0EcZo.jpg",
+    "tempo": 40,
+    "porcoes": 6,
+    "versiculo": "Éxodo 3:8",
+    "texto_versiculo": "He descendido para librarlos de la mano de los egipcios, y para sacarlos de aquella tierra a una tierra buena y espaciosa, a una tierra que mana leche y miel.",
+    "contexto_biblico": "La Tierra Prometida era descrita como abundante en leche y miel, pero también en trigo, cebada, uvas, higos, granadas, aceite y dátiles — los siete alimentos bíblicos. Este caldo celebra la abundancia vegetal de esa tierra bíblica, reuniendo las verduras que crecían en las fértiles llanuras de Canaán.",
+    "ingredientes": [
+      { "item": "zanahoria en rodajas", "quantidade": "2 unidades", "nota_saude": "betacaroteno, IG bajo" },
+      { "item": "calabacita en cubos", "quantidade": "1 unidad", "nota_saude": "hidratante, pocos carbohidratos" },
+      { "item": "cebolla picada", "quantidade": "1 unidad", "nota_saude": "prebiótico, antioxidante" },
+      { "item": "apio en rodajas", "quantidade": "2 tallos", "nota_saude": "antiinflamatorio, diurético" },
+      { "item": "tomate maduro en cubos", "quantidade": "2 unidades", "nota_saude": "licopeno, vitamina C" },
+      { "item": "ajo picado", "quantidade": "4 dientes", "nota_saude": "controla glucemia y presión" },
+      { "item": "garbanzos cocidos", "quantidade": "1 taza", "nota_saude": "proteína vegetal, fibra, IG bajísimo" },
+      { "item": "aceite de oliva extra virgen", "quantidade": "2 cucharadas", "nota_saude": "grasa saludable" },
+      { "item": "tomillo, romero y laurel", "quantidade": "al gusto", "nota_saude": "antioxidantes naturales" },
+      { "item": "sal marina", "quantidade": "al gusto", "nota_saude": "usar con moderación" }
+    ],
+    "modo_preparo": [
+      "Calienta el aceite en una olla grande y sofríe la cebolla, el ajo y el apio 5 minutos.",
+      "Agrega la zanahoria y sofríe 3 minutos más.",
+      "Añade el tomate, la calabacita y las hierbas (tomillo, romero, laurel).",
+      "Cubre con 1.5 litros de agua filtrada y cocina 20 minutos.",
+      "Incorpora los garbanzos y cocina 10 minutos más.",
+      "Retira el laurel, ajusta la sal y sirve bien caliente."
+    ],
+    "dica_diabeticos": "Este caldo es uno de los más completos para diabéticos: las verduras tienen carga glucémica baja, los garbanzos añaden proteína y fibra que estabilizan la glucemia. Las hierbas aromáticas tienen compuestos antioxidantes que combaten el estrés oxidativo de la diabetes. Puede consumirse diariamente."
+  }
+]
